@@ -1,7 +1,4 @@
-A First Level Header
-====================
-
-A Second Level Header
----------------------
+My working Wordpress Theme
+==========================
 
 This is my working wordpress theme.
